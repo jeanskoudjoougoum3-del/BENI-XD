@@ -1,0 +1,6 @@
+import { encryptOwners } from './utils/benixCreator.js';
+
+await encryptOwners([
+  "22870421276",
+  "22870421276"
+]);
