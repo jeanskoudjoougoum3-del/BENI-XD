@@ -1,0 +1,20 @@
+{
+  "users": {
+    "22870421276": {
+      "sudoList": [
+        "22870421276@s.whatsapp.net",
+        "22870421276@s.whatsapp.net"
+      ],
+      "tagAudioPath": "database/Beni.mp3",
+      "antilink": true,
+      "response": true,
+      "autoreact": false,
+      "prefix": ".",
+      "reaction": "⚡",
+      "welcome": true,
+      "record": true,
+      "type": true,
+      "publicMode": false
+    }
+  }
+}
